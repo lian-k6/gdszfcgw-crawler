@@ -1,0 +1,2 @@
+[console_scripts]
+AutoCAD = AutoCAD.__main__:main
