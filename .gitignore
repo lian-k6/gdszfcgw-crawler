@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Build
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Local data
+*.csv
+*.xlsx
+*.xls
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+*.egg-info/
